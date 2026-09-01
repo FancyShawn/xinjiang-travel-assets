@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">D1 大漠湖杨路线时间示意</title>
+  <desc id="desc">从和田昆冈机场前往大漠湖杨生态景区，再到约特干故城南门的坐标、距离与高德驾车规划时间。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf4df"/>
+      <stop offset="1" stop-color="#eee4c7"/>
+    </linearGradient>
+    <linearGradient id="forest" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#db9a31"/>
+      <stop offset="1" stop-color="#9d5c20"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#3b3024" flood-opacity=".13"/>
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0 0L10 5L0 10Z" fill="#b86b29"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="750" rx="36" fill="url(#bg)"/>
+  <text x="62" y="70" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="34" font-weight="700" fill="#2a2925">D1：大漠湖杨 → 18:30 约特干</text>
+  <text x="62" y="108" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="18" fill="#746f63">高德驾车规划核算 · 2026.08.21 · 出发当天按实时路线执行</text>
+
+  <path d="M270 335C360 235 390 235 480 335" fill="none" stroke="#b86b29" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+  <path d="M720 335C810 235 840 235 930 335" fill="none" stroke="#b86b29" stroke-width="9" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="54" y="275" width="250" height="172" rx="24" fill="#fff"/>
+    <circle cx="92" cy="317" r="20" fill="#293b5f"/>
+    <text x="92" y="324" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#fff">✈</text>
+    <text x="126" y="322" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="22" font-weight="700" fill="#27313a">和田昆冈机场</text>
+    <text x="78" y="361" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#78838c">79.876090, 37.039275</text>
+    <text x="78" y="398" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="700" fill="#9a6a35">15:25 落地 · 16:00 出发</text>
+    <text x="78" y="426" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#89939a">取车完成后直接出发</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="466" y="252" width="268" height="218" rx="24" fill="#fff"/>
+    <rect x="466" y="252" width="268" height="68" rx="24" fill="url(#forest)"/>
+    <rect x="466" y="296" width="268" height="24" fill="url(#forest)"/>
+    <text x="600" y="295" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="23" font-weight="700" fill="#fff">大漠湖杨生态景区</text>
+    <text x="600" y="349" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="700" fill="#965d23">湖边木栈道 · 沙丘胡杨</text>
+    <text x="600" y="382" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#637980">79.978410, 37.217410</text>
+    <text x="600" y="413" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#89939a">高德 POI B0FFL4KXL8</text>
+    <text x="600" y="444" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="700" fill="#a24a38">约16:37到 · 17:40前离开</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="896" y="275" width="250" height="172" rx="24" fill="#fff"/>
+    <circle cx="934" cy="317" r="20" fill="#a33d32"/>
+    <text x="934" y="324" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#fff">城</text>
+    <text x="968" y="322" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="21" font-weight="700" fill="#27313a">约特干故城南门</text>
+    <text x="920" y="361" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#78838c">79.829222, 37.141976</text>
+    <text x="920" y="398" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" font-weight="700" fill="#a33d32">约18:09到 · 18:30入场</text>
+    <text x="920" y="426" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#89939a">南门 POI B0IRRSEH5D</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="300" y="157" width="210" height="72" rx="18" fill="#fff"/>
+    <text x="405" y="188" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" fill="#9f4f1d">26.7km · 约37分钟</text>
+    <text x="405" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#7c858b">机场 → 大漠湖杨</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="744" y="157" width="210" height="72" rx="18" fill="#fff"/>
+    <text x="849" y="188" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="700" fill="#9f4f1d">18.5km · 约29分钟</text>
+    <text x="849" y="214" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="14" fill="#7c858b">大漠湖杨 → 约特干</text>
+  </g>
+
+  <g>
+    <rect x="54" y="520" width="1092" height="142" rx="24" fill="#2f302c"/>
+    <text x="84" y="560" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="700" fill="#fff">时间核算</text>
+    <text x="84" y="595" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#e7e2d8">16:00 出发 → 约16:37 到景区 → 17:40 离开 → 约18:09 到约特干南门</text>
+    <circle cx="91" cy="629" r="7" fill="#e4a241"/>
+    <text x="113" y="635" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#ffe0ad">约21分钟用于停车和检票；若16:20仍未离开机场，改走市区团城备选。</text>
+  </g>
+  <text x="600" y="706" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif" font-size="15" fill="#70706a">10月2日可能未到金黄峰值；小红书图片仅作深秋构图参考</text>
+</svg>
